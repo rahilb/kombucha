@@ -17,6 +17,7 @@ For next time:
 
 - Always filter the juice!
 - More 1F time to cut the sugar
+- Clean the rims of the bottles before capping them; otherwise they'll be hard to open later.
 
 Images:
 ![juice](https://github.com/rahilb/kombucha/blob/master/batch_001/juice_content.jpg?raw=true)
